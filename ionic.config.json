@@ -1,0 +1,7 @@
+{
+  "name": "covid-19-tracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
